@@ -1,2 +1,2 @@
 # PyCode
-My Python source code
+Daily Coding Problem solutions.
